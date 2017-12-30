@@ -13,7 +13,7 @@ return [
     'store' => 'Sklep',
 	'gift-to' => 'Komu chcesz wysłać punkty?',
 	'gift' => 'Podaruj punkty',
-	'exchange' => 'Wymiany',
+	'exchange' => 'Wymiana',
 	'exchange-warning' => 'Wymiany nie podlegają zwrotowi. Upewnij się przed ich zawarciem.',
 	'no-refund' => 'BRAK ZWROTÓW!',
 	'active' => 'Aktywowano!',
