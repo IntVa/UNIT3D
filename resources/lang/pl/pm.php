@@ -8,8 +8,8 @@
 return [
     'unread' => 'Nieprzeczytane',
     'read' => 'Przeczytane',
-    'inbox' => 'Przychodzące',
-    'outbox' => 'Wychodzące',
+    'inbox' => 'Odebrane',
+    'outbox' => 'Wysłane',
     'message' => 'Wiadomość',
     'messages' => 'Wiadomości',
     'private' => 'Prywatne',
