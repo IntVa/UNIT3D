@@ -26,7 +26,7 @@ return [
 	'preview' => 'Podgląd',
 	'edit' => 'Edytuj',
 	'delete' => 'Usuń',
-	'pending' => 'Oczekuje',
+	'pending' => 'Oczekujący',
 	'stats' => 'Statystyki',
 	'extra-stats' => 'Dodatkowe statystyki',
 	'rules' => 'Zasady',
